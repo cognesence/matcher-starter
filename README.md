@@ -1,8 +1,12 @@
-# matcher-starter
+# Matcher Starter Project
 An Leiningen/IntelliJ IDEA project that's ready to go with the matcher.
 
+Leiningen is all set up and configured to download the 
+`org.clojars.cognesence.matcher` and `org.clojars.cognesence.ops-search`
+dependencies.
+
 ## Getting a REPL
-To get a REPL in IntelliJ/Cursive, go to `Run -> Edit Configurations...` and
+To get a REPL in IntelliJ/Cursive, go to `Run > Edit Configurations...` and
 click the `+` icon in the window that appears. Then select 
 `Clojure REPL > Local`, change the name to `REPL` and just click `OK` (you don't
 need to change anything else).
