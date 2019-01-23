@@ -1,4 +1,5 @@
 (ns matcher-starter.core
+  (:require [org.clojars.cognesence.breadth-search.core :refer :all]
   (:require [org.clojars.cognesence.matcher.core :refer :all]
             [org.clojars.cognesence.ops-search.core :refer :all]))
 
