@@ -9,3 +9,10 @@ To get a REPL in IntelliJ/Cursive, go to `Run > Edit Configurations...` and clic
 Then go to `Run -> Run...` and select `REPL`. This will bring up the REPL window in the IDE. You should now be able to right-click on the text editor after making any changes to your file and click `REPL > Load file in REPL`.
 
 There's also a good (official) guide [here](https://cursive-ide.com/userguide/repl.html).
+
+## License
+
+Copyright © 2017 Simon Lynch
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
